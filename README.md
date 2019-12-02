@@ -1,4 +1,4 @@
-# Modelling
+# Coding Club - Modelling
 
 ### Tutorial on logistic regression model, available here https://oliviapyui.github.io/logit/
 
