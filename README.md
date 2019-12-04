@@ -1,6 +1,6 @@
 # Coding Club - Modelling
 
-### Tutorial on logistic regression model, available here https://oliviapyui.github.io/logit/
+### Tutorial on logistic regression model, available here https://eddatascienceees.github.io/logitmodel-oliviapyui/
 
 You can download this repo and have access to the full code and the output of the script.
 
